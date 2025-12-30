@@ -1,8 +1,8 @@
-# 🚀 ProtoForge
+# 🚀 Praxis
 
 ### Build real projects. Work like a startup. Represent 1337.
 
-ProtoForge is a **project-driven club at 1337** where students **build big, real software projects** — not tutorials, not small demos.
+Praxis is a **project-driven club at 1337** where students **build big, real software projects** — not tutorials, not small demos.
 
 If you want:
 
@@ -14,9 +14,9 @@ This is for you.
 
 ---
 
-## 🧠 What is ProtoForge?
+## 🧠 What is Praxis?
 
-ProtoForge is a **startup-style incubator**, run as a **role-play**.
+Praxis is a **startup-style incubator**, run as a **role-play**.
 
 * You propose a project
 * You defend it like an **investor pitch**
@@ -32,7 +32,7 @@ No abandoned repos.
 
 ## 🏗️ What You Build
 
-Projects at ProtoForge are:
+Projects at Praxis are:
 
 * multi-week or multi-month
 * public or private
@@ -133,14 +133,14 @@ This is the stuff recruiters *actually care about*.
 * Turn ideas into **products**
 * Represent **1337** with quality work
 
-ProtoForge is not about speed.
+Praxis is not about speed.
 It’s about **depth**.
 
 ---
 
 ## 📍 Status
 
-ProtoForge is currently being built by students, for students.
+Praxis is currently being built by students, for students.
 The platform itself is our **first public project**.
 
 If you want to help build it —
